@@ -29,7 +29,7 @@ export const sampleProducts = [
     id: 3,
     name: "Silk Evening Dress",
     price: 1299,
-    image: " https://media.istockphoto.com/id/150685327/photo/vintage-fashion.jpg?s=612x612&w=0&k=20&c=OVbaGyZrvPJFK0-I1bcn8_II1MP2PjctF-VGoPFYDQM=", // Replace with your desired image URL
+    image: "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=400&h=400&fit=crop",
     rating: 4,
     reviews: 67,
     tags: ["New", "Designer"],
@@ -55,7 +55,7 @@ export const sampleProducts = [
     id: 5,
     name: "Crystal Champagne Flutes",
     price: 299,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs5QMRTCXUYv4unp_z5wGGLSngIKE6ctBmXw&s", // Replace with your desired image URL
+    image: "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=400&h=400&fit=crop",
     rating: 5,
     reviews: 203,
     tags: ["New", "Home & Living"],
@@ -133,7 +133,7 @@ export const sampleProducts = [
     id: 11,
     name: "Luxury Travel Case",
     price: 599,
-    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=400&fit=crop",
+    image: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=400&h=400&fit=crop",
     rating: 5,
     reviews: 67,
     tags: ["Travel", "Premium"],
