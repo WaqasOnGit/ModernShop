@@ -10,7 +10,8 @@
     "build:vercel": "vite build",
     "preview": "vite preview",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "deploy": "npm run build:github && gh-pages -d dist"
+    "predeploy": "npm run build:github",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.2.0",
